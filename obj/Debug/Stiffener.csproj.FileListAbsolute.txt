@@ -1,0 +1,5 @@
+C:\BentleyCSProjects\Stiffener\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files (x86)\Bentley\ProStructures V8i S8\ProStructures\mdlapps\GSFStiffener.dll
+C:\Program Files (x86)\Bentley\ProStructures V8i S8\ProStructures\mdlapps\GSFStiffener.pdb
+C:\BentleyCSProjects\Stiffener\obj\Debug\GSFStiffener.dll
+C:\BentleyCSProjects\Stiffener\obj\Debug\GSFStiffener.pdb
